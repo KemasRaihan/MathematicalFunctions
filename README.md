@@ -1,2 +1,2 @@
-# MathematicalSequences
-Includes prime numbers and the Fibonacci sequence. 
+# MathematicalFunctions
+Mathematical functions implemented in Java. Includes factorials, prime and fibonacci. 
